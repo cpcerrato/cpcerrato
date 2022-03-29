@@ -51,6 +51,10 @@ In Gumbug I started as a devops and cloud engineer/architect designing, coding, 
 
 I also worked in a lot of prototypes.
 
+#### Code samples
+
+* Poker hand solver programming exercise using TypeScript: [poker-exercise-typescript](https://github.com/cpcerrato/poker-exercise-typescript) 
+
 #### DevOps bits 🚀
 
 Here are some of projects I created and shared with the community:
