@@ -15,7 +15,7 @@ const skills = {
   programming: ["Javascript", "c#", "TypeScript", "go", "bash", "c", "Java"],
   database: ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
   cloud: {
-    aws: ["ec2", "S3", "ElastiCache", "DocumentDB", "RDS", "CloudFront"],
+    aws: ["ec2", "S3", "ECR", "ElastiCache", "DocumentDB", "RDS", "CloudFront"],
     gcp: ["Compute Engine"],
   },
   backend: ["NodeJS", "Express", "WebSocket"],
