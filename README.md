@@ -1,10 +1,10 @@
-### Hi fellow 👋
+### Hello 👋
 
 I'm Carlos Pérez Cerrato an experienced developer and DevOps, I like pretty much to think about solve problems and strive to get the optimal solution. I'm a strong advocate of KISS and YAGNI. I like to learn new things (in general). I'm always reading about OOP, software architectures and testing.
 
-Most part of the time I worked for companies in private repositories specially those ones related with development. 
+Most part of the time I worked for companies in private repositories specially those ones related with game development. 
 
-I have a couple public repositories mostly related with my devops/sysadmin jobs. Be feel free to explore and pick or copy whatever you need.
+I have a couple public repositories mostly related with my devops/sysadmin jobs. Feel free to explore and pick whatever you need.
 
 #### Skills 🥷
 
